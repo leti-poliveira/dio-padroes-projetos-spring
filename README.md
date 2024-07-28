@@ -1,6 +1,9 @@
-# Explorando Padrões de Projetos na Prática com Java
 
-Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando o Spring Framework, são eles:
-- Singleton
-- Strategy/Repository
-- Facade
+Claro! Aqui está uma versão reescrita da descrição para o seu repositório:
+
+Implementações Práticas de Padrões de Projeto em Java
+Este repositório contém exemplos de implementação dos padrões de projeto abordados no laboratório "Implementações Práticas de Padrões de Projeto em Java". O projeto foca na aplicação desses padrões usando o Spring Framework, incluindo:
+
+Singleton
+Strategy/Repository
+Facade
